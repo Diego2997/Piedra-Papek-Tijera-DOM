@@ -1,0 +1,56 @@
+.container {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.scoreboard {
+	margin-top: 50px;
+}
+
+.score {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.options {
+	margin-top: 50px;
+}
+
+.options button {
+	padding: 10px 20px;
+	font-size: 24px;
+	margin: 0 10px;
+	cursor: pointer;
+	background-color: #4CAF50;
+	color: white;
+	border: none;
+	border-radius: 5px;
+}
+
+.options button:hover {
+	background-color: #3e8e41;
+}
+
+.result {
+	margin-top: 50px;
+}
+
+.result p {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.result button {
+	margin-top: 20px;
+	padding: 10px 20px;
+	font-size: 24px;
+	cursor: pointer;
+	background-color: #f44336;
+	color: white;
+	border: none;
+	border-radius: 5px;
+}
+
+.result button:hover {
+	background-color: #d32f2f;
+}
