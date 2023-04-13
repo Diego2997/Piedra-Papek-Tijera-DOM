@@ -9,7 +9,7 @@ Juego realizado con javascript y manipulacion del DOM
 ## Clonar proyecto ⚙️
  Puedes clonar el proyecto copiando el codigo a continuacion, abriendo la terminal de tu editor de codigo y pegando lo anteriormente copiado
 
-`$ git clone url`
+`$ git clone https://github.com/Diego2997/Piedra-Papel-Tijera-DOM.git`
 
 ## Herramientas utilizadas 🛠️
 
